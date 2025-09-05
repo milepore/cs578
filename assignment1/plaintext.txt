@@ -1,0 +1,39 @@
+Why did Caesar love his cipher so much?
+Because it made him feel like a real shift leader.
+Fun Fact: Caesar’s cipher shifted each letter by 3. Simple, but it kept casual snoops away from his military
+orders.
+Why did the Spartan message look like nonsense?
+Because it was taken out of context (literally off the stick).
+Fun Fact: A strip of parchment wrapped around a rod revealed the text. Without the right rod, the letters were
+scrambled.
+Why did the Atbash cipher fail its test?
+Because it always gave the opposite answer.
+Fun Fact: Atbash, from ancient Hebrew, simply flips the alphabet (A->Z, B->Y, etc.). It’s one of the oldest known
+substitution ciphers.
+Why don’t Vigenere users ever lose arguments?
+Because they always have the last key.
+Fun Fact: Using a repeating keyword, Vigenere disguised letter frequencies, baffling cryptanalysts for centuries.
+Why was the Playfair cipher bad at sports?
+Because it couldn’t handle singles.
+Fun Fact: Playfair (1854) encrypts pairs of letters instead of singles. It was used in WWI and WWII for field
+communications.
+Why is ROT13 like a boomerang?
+Because what you send out always comes back the same.
+Fun Fact: ROT13 shifts letters by 13. Encrypting twice returns the original text--so decryption is the same as
+encryption.
+Why was the one-time pad always invited to parties?
+Because it was perfectly secure.
+Fun Fact: If truly random and never reused, the one-time pad is unbreakable. The problem: sharing and keeping the
+pads secret.
+Why did the Enigma machine hate small talk?
+Because everything it said came out complicated.
+Fun Fact: With billions of possible settings, Enigma seemed unbeatable. Allied cryptanalysis cracked it, shaping
+the outcome of WWII.
+Why did the Lorenz cipher break up with Enigma?
+Because it wanted a bigger wheel of fortune.
+Fun Fact: Lorenz SZ machines, used by Nazi high command, were even more complex than Enigma. British
+cryptanalysts built Colossus to crack them.
+Why do cryptographers always carry snacks?
+Because they believe in secure chips.
+Fun Fact: Today’s ciphers rely on hard math problems (like factoring big numbers or modular arithmetic) instead
+of simple letter tricks.
